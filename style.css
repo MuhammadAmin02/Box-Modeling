@@ -1,0 +1,58 @@
+h1{
+    background-color: black;
+    color: white;
+    width: 600px;
+    height: 69px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.top{
+    display: flex;
+    justify-content: space-around;
+
+}
+body{
+    background-color: rgb(24, 74, 74);
+ }
+ .olo{
+    background-color: aqua;
+    height: 150px;
+    width: 600px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+    border: 20px solid black;
+
+ }
+.kop{
+    background-color: black;
+    color: black;
+    height: 500px;
+    width: 600px;
+    display: flex;
+    justify-content: space-around;
+    border: 5px solid red;
+    margin-left: 455px;
+    flex-wrap: wrap;
+ }
+ p{
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+
+ }
+ .run{
+    background-color: aqua;
+    height: 150px;
+    width: 600px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+    border: 20px solid black;
+    
+
+
+ }
